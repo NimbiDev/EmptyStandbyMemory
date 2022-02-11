@@ -2,6 +2,7 @@
 
 Fix the memory leak problem in Windows by clearing the stanby memory cache every 5 minutes after logon.
 
+![Untitled](https://user-images.githubusercontent.com/17615050/153669622-830ef734-af54-453b-84ff-1da3b4891ea7.png)
 
 ## Instructions
 
