@@ -10,7 +10,7 @@ Empty the stanby memory every 5 minutes after boot.
  * Open **Task Scheduler** and import the `Empty Standby List.xml` file to create the automated task.
  * Run the `Empty Standby List` task.
 
- Once you have completed the above steps, restart your PC and the Memory Leak Fix should be setup and automated.
+ Once you have completed the above steps, restart your PC and the `Empty Standby List` task should be setup and automated.
 
  ## Download
 
