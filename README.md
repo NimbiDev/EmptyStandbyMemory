@@ -7,10 +7,10 @@ Fix the memory leak problem in Windows by clearing the stanby memory cache every
 ## Instructions
 
  * Download the repo via the link belowa and copy the  `EmptyStandbyList.exe` file found inside into `C:\`.
- * Open **Task Scheduler** and import the `MemoryLeakFix.xml` file to create the automated task.
- * Run the `MemoryLeakFix` task.
+ * Open **Task Scheduler** and import the `Empty Standby List.xml` file to create the automated task.
+ * Run the `Empty Standby List` task.
 
- Once you have complted the above steps, restart your PC and the Memory Leak Fix should be setup and automated.
+ Once you have completed the above steps, restart your PC and the Memory Leak Fix should be setup and automated.
 
  ## Download
 
