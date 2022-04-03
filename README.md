@@ -1,6 +1,6 @@
 # Empty Standby Memory
 
-Empty the stanby memory every 5 minutes after logon of any user.
+Speed up your PC by clearing the standby memory every 5 minutes after logon of any user.
 
 ![Untitled](https://user-images.githubusercontent.com/17615050/153669622-830ef734-af54-453b-84ff-1da3b4891ea7.png)
 
