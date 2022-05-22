@@ -13,4 +13,4 @@ Speed up your PC by clearing the standby memory every 5 minutes after logon of a
  
  ## Download
 
-  * [Releases](https://github.com/DevCorner-Github/EmptyStandbyMemory/releases)
+  * [Releases](https://github.com/Socket-Development/EmptyStandbyMemory/archive/refs/heads/main.zip)
