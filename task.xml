@@ -3,8 +3,8 @@
   <RegistrationInfo>
     <Date>2022-04-02T22:22:21.8122891</Date>
     <Author>Socket Development</Author>
-    <Description>Clear the standby memory every 5 minutes after logon.</Description>
-    <URI>\ESM</URI>
+    <Description>Clear the standby list every 5 minutes after logon.</Description>
+    <URI>\EmptyStandbyList</URI>
   </RegistrationInfo>
   <Triggers>
     <LogonTrigger>
